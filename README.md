@@ -2,6 +2,8 @@
 
 > Python notebooks for data processing, cleaning and scraping
 
+![GitHub banner](/docs/banner.jpg)
+
 ## Description
 
 Notebooks for the data systems project. Includes notebooks for:
